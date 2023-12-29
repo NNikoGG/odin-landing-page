@@ -187,4 +187,18 @@ a{
     color: #f9faf8;
     border: 2px solid #f9faf8;
     border-radius: 8px;
+    width: 100px;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+}
+
+.copyright-text{
+    color: #e5e7eb;
+    margin-top: 24px;
+    margin-bottom: 24px;
 }
